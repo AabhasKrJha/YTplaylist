@@ -18,7 +18,7 @@ def get_app_info():
             }
 
     app_info = {
-        "app name" : "contactor",
+        "app name" : "YTplaylist",
         "app type" : "API",
         "response type" : "application/json",
         "environment" : {
